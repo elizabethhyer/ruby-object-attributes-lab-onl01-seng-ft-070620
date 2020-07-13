@@ -18,9 +18,9 @@ end
 end 
 
 snoopy = Dog.new
-snoopy.breed = "Beagle"
 snoopy.name = "Snoopy"
- 
+snoopy.breed = "Beagle"
+
 puts snoopy.name
 puts snoopy.breed
  
