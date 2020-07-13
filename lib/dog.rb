@@ -18,7 +18,9 @@ end
 end 
 
 lassie = Dog.new
+lassie.breed = "Border Collie"
 lassie.name = "Lassie"
  
 puts lassie.name
+puts lassie.breed
  
