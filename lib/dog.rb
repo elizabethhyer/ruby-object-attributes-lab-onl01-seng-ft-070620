@@ -17,10 +17,10 @@ class Dog
 end
 end 
 
-lassie = Dog.new
-lassie.breed = "Border Collie"
-lassie.name = "Lassie"
+snoopy = Dog.new
+snoopy.breed = "Beagle"
+snoopy.name = "Snoopy"
  
-puts lassie.name
-puts lassie.breed
+puts snoopy.name
+puts snoopy.breed
  
